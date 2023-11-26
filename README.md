@@ -1,4 +1,4 @@
-# Contador React Simples
+# Roteamento entre telas
 
 Um aplicativo de contador React simples que utiliza o hook `useState` para gerenciar o estado do contador. Fornece botões para incrementar e decrementar o valor.
 
